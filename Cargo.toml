@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-compositor-effects"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS compositor-effects component - desktop"
+
+[lib]
+name = "compositor_effects"
+path = "src/lib.rs"
