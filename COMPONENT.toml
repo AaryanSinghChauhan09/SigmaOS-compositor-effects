@@ -3,7 +3,7 @@ name = "SigmaOS-compositor-effects"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "compositor-effects component"
+description = "compositor effects"
 upstream = []
 
 [contract]
